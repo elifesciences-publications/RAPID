@@ -1,3 +1,7 @@
+This code is associated with the paper from Leelatian et al., "Unsupervised machine learning reveals risk stratifying glioblastoma tumor cells". eLife, 2020. http://doi.org/10.7554/eLife.56879
+
+
+
 # RAPID: Risk Assessment Population and Identification
 ### RAPID pre-print available via bioRxiv:
 #### https://www.biorxiv.org/content/10.1101/632208v3
